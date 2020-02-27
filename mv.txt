@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test2 asfasdssdfs afdfssddf
-=======
-test2 asfasdssdfsdfssdfasdfsada
->>>>>>> e1318dba03ab71d2f5c3b98a000688af8078777e
+adfad
